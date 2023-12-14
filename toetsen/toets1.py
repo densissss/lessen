@@ -26,7 +26,7 @@ print("*************************************************************************
 # ! tip: gebruik hiervoor de print()-funtie
 # ! tip2: vergeet niet dat tekst die je wil printen tussen "" moet staan!
 
-# We beginnen er aan. print alles wat tussen de sterretjes staat: 
+# We beginnen er aan. Print alles wat tussen de sterretjes staat: 
 # Gebruik voor elke lijn een nieuwe print()-opdracht!
 
 # ************************************************************************************************************
